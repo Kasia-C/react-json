@@ -1,0 +1,48 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "title": "Mustang GT",
+      "type": "Sport",
+      "hp": "183",
+      "color": "Red",
+      "fuel_type": "PB95 or 98",
+      "fuel1": "12l/100km",
+      "fuel2": "10l/100km",
+      "automatic_air_conditioning": "include"
+    },
+    {
+      "id": 2,
+      "title": "BMW X3",
+      "type": "Suv",
+      "hp": "230",
+      "color": "Black",
+      "fuel_type": "Diesel",
+      "fuel1": "12l/100km",
+      "fuel2": "10l/100km",
+      "automatic_air_conditioning": "include"
+    },
+    {
+      "id": 3,
+      "title": "Mercedes CLS",
+      "type": "Limo",
+      "hp": "200",
+      "color": "black",
+      "fuel_type": "PB95 or 98",
+      "fuel1": "15l/100km",
+      "fuel2": "12l/100km",
+      "automatic_air_conditioning": "include"
+    },
+    {
+      "id": 4,
+      "title": "Audi ARS6",
+      "type": "Sport",
+      "hp": "300",
+      "color": "blue",
+      "fuel_type": "PB95 or 98",
+      "fuel1": "15l/100km",
+      "fuel2": "18l/100km",
+      "automatic_air_conditioning": "include"
+    }
+  ]
+}
